@@ -24,7 +24,7 @@ Sample web app and helper scripts to get started with Twitter's premium Account 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/mkgareja/tbot.git
+    git clone https://github.com/faraz66/twitter_webhook.git
     ```
 
 2. Install Node.js dependencies:
